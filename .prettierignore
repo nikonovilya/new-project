@@ -1,0 +1,10 @@
+/.vscode
+/.git
+build/
+node_modules/
+gulpfile.js
+/src/*.html
+/src/css/**/*.css
+/src/sass/**/*.sass
+/src/js/focus-visible.js
+/src/js/webp.js
